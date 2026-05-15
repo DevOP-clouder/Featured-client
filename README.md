@@ -18,3 +18,7 @@ Initial scaffold and planning documents are in progress.
 3. Pack manager and conflict checks
 4. Launch preflight and diagnostics
 5. Cosmetics framework (original content only)
+
+
+## Added Foundation
+6. Automatic update system design and Kotlin update module scaffold (manifest polling + version checks).
